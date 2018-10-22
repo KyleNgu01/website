@@ -22,4 +22,29 @@
     strong {
         color: #D2691E;
     }
+    em { 
+	color: #701928;
+    }
+    i {
+	color: #631011;
+	font-style: Serif;
+    }
+    code {
+	color: #184975;
+    }
+    kbd {
+	color: #087241;
+    }
+    sup { 
+	color: #297461;
+    }
+    sub {
+	color: #087401;
+    }
+    .standout {
+	color: #170484;
+    }
+    .qwerty {
+	font-style: monospace;
+    }
     
