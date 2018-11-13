@@ -1,0 +1,4 @@
+p div {
+      resize: both;
+      overflow: auto;
+}
