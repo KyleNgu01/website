@@ -1,4 +1,30 @@
-p div {
+p img { 
+      width: 1410px;
       resize: both;
       overflow: auto;
+}
+
+h1 {
+   color: #DC143C;
+}
+
+h2, th{
+   color: #CCCC00;
+}
+
+html {
+     background: url("PunchImages/Saitama.png") no-repeat;
+     background-size: cover; 
+}
+
+div, p, ul, td{
+          color: #ADD8E6;
+}
+
+small {
+      color: #0000A0;
+}
+
+ol {
+   color: #FF0000;
 }
