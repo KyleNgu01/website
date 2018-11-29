@@ -1,3 +1,9 @@
+h1 ,h2{
+      font-family:"Bungee Shade";
+      font-weight: bold;
+      
+}
+
 p img { 
       width: 1410px;
       resize: both;
@@ -5,20 +11,21 @@ p img {
 }
 
 h1 {
-   color: #DC143C;
+      color: #DC143C;
+      
 }
 
 h2, th{
-   color: #CCCC00;
+      color: #CCCC00;
 }
 
 html {
-     background: url("PunchImages/Saitama.png") no-repeat;
-     background-size: cover; 
+      background: url("PunchImages/Saitama.png") no-repeat;
+      background-size: cover; 
 }
 
 div, p, ul, td{
-          color: #ADD8E6;
+      color: #ADD8E6;
 }
 
 small {
@@ -26,75 +33,74 @@ small {
 }
 
 ol {
-   color: #FF0000;
+      color: #FF0000;
 }
 .apple {
-        position: absolute;
-        top: 2190px;
-        left: 1000px;
+      position: absolute;
+      top: 2190px;
+      left: 1000px;
 }
 .mango {
-        position: absolute;
-        top: 1850px;
-        left:1000px;
+      position: absolute;
+      top: 1850px;
+      left:1000px;
 }
 .strawberry {
-	position: absolute;
-	top:2680px;
-	left: 1000px;
+      position: absolute;
+      top:2680px;
+      left: 1000px;
 }
 .kiwi {
-        position: absolute;
-	top:1300px;
-	left: 1000px;
+      position: absolute;
+      top:1300px;
+      left: 1000px;
 }
 .orange {
-	position: absolute;
-	top: 1550px;
-	left: 1000px;
+      position: absolute;
+      top: 1550px;
+      left: 1000px;
 }
 .banana {
-	position: absolute;
-	top: 950px;
-	left: 1000px;
+      position: absolute;
+      top: 950px;
+      left: 1000px;
 }
 .cranberry {
-	position: absolute;
-	top: 625px;
-	left: 1000px;
+      position: absolute;
+      top: 625px;
+      left: 1000px;
 }
 .pineapple {
-	position: absolute;
-	top: 270px;
-	left: 1000px;
+      position: absolute;
+      top: 270px;
+      left: 1000px;
 }
 footer {
-        text-align: center;
-        margin-top: 40px;
-        font-size: .9em;
+      text-align: center;
+      margin-top: 40px;
+      font-size: .9em;
 }
 footer a {
-        border: 1px solid #777;
-        padding-top: 2px;
-        padding-bottom: 2px;
-        padding-right: 2px;
-        margin-right: 10px;
-        background-color: #FF0066;
+      border: 1px solid #777;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      padding-right: 2px;
+      margin-right: 10px;
+      background-color: #FF0066;
 }
 a > strong {
-        background-color: #9932CC;
-        color: #FFaa80;
-        padding: 2px;
-        padding-left: 4px;
-        margin-right: 2px;
+      background-color: #9932CC;
+      color: #FFaa80;
+      padding: 2px;
+      padding-left: 4px;
+      margin-right: 2px;
 }
 a:visited {
-        color: #00FFFF;
+      color: #00FFFF;
 }
 footer{
-     position: relative;
-     bottom: 0;
-     width: 100%;
-    
+      position: relative;
+      bottom: 0;
+      width: 100%; 
 }
 

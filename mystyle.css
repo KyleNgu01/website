@@ -24,4 +24,7 @@ footer{
      width: 100%;
 
 }
+a:visited {
+        color: #00FFFF;
+}
 
