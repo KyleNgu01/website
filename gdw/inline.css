@@ -27,7 +27,7 @@
     }
     i {
 	color: #631011;
-	font-style: Serif;
+	font: Serif;
     }
     code {
 	color: #184975;
@@ -45,6 +45,6 @@
 	color: #170484;
     }
     .qwerty {
-	font-style: monospace;
+	font: monospace;
     }
     
