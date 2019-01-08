@@ -17,6 +17,10 @@ div#before, div#after {
 }
 div#container {
     background-color: #DFD;
+    position: relative;
+    top: 20px;
+    left: -40px;
+
 }
 div#padding {
     background-color: #DDF;
