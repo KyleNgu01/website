@@ -4,12 +4,6 @@ h1 ,h2{
       
 }
 
-p img { 
-      width: 1410px;
-      resize: both;
-      overflow: auto;
-}
-
 h1 {
       color: #DC143C;
       
@@ -17,6 +11,9 @@ h1 {
 
 h2, th{
       color: #CCCC00;
+}
+span {
+      color: #ccff15;
 }
 
 html {
