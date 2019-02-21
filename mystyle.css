@@ -1,22 +1,3 @@
-
-body {
-    margin: 40px;
-    padding: 40px;
-    border: 1px solid #808080;
-    background-color: #FFFFFF;
-}
-h1 {
-    text-align: center;
-    color: #FFC0CB;
-}
-h3 {
-    color: #FF7F50;
-}
-a, a:visited {
-    color: #FF7F50;
-    text-decoration: none;
-}
-
 footer {
         text-align: center;
         margin-top: 40px;
@@ -28,24 +9,21 @@ footer a {
         padding-bottom: 2px;
         padding-right: 2px;
         margin-right: 10px;
-        background-color: #FFF;
+        background-color: #FF0066;
 }
 a > strong {
-        background-color: #FFC0CB;
-        color: #FFF;
+        background-color: #9932CC;
+        color: #FFaa80;
         padding: 2px;
         padding-left: 4px;
         margin-right: 2px;
 }
+footer{
+     position: relative;
+     bottom: 0;
+     width: 100%;
 
-
-
-
-
-
-
-
-
-
-
-
+}
+a:visited {
+        color: #00FFFF;
+}
