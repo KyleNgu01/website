@@ -1,0 +1,65 @@
+h1 {
+ font-family: "Lobster", cursive;
+ text-align: center;
+ color: #3383ff;
+ font-size: 225%;
+}
+
+h2 {
+ font-family: "Lobster", cursive;
+}
+
+.first {
+ position: fixed;
+ top: 185px;
+ left: 21px;
+}
+
+
+.water {
+ text-decoration: none;
+ color: #72c4e5;
+}
+
+.waterr {
+ color: #72c4e5;
+ text-decoration: none;
+}
+
+.waterrr {
+ color: #72c4e5;
+ text-decoration: none;
+}
+
+div.nav  {
+ padding: 25px;
+}
+
+div > a {
+ padding-left: 50px;
+ padding-right: 50px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.center{
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ width:15%; 
+ position: relative;
+ top: 85px;
+ left: 450px;
+}
+
+main {
+ position: fixed;
+ top: 178px;
+ left: 20px;
+ margin-right: 400px;
+}
+
+div {
+ text-align: center;
+
+ 
