@@ -10,8 +10,8 @@ h2 {
 }
 
 .first {
- position: fixed;
- top: 185px;
+ position: relative;
+ top: -230px;
  left: 21px;
 }
 
@@ -38,8 +38,8 @@ div.nav  {
 div > a {
  padding-left: 50px;
  padding-right: 50px;
- padding-top: 20px;
- padding-bottom: 20px;
+ padding-top: 25px;
+ padding-bottom: 25px;
 }
 
 .center{
@@ -49,12 +49,12 @@ div > a {
  width:15%; 
  position: relative;
  top: 85px;
- left: 450px;
+ left: 475px;
 }
 
 main {
- position: fixed;
- top: 178px;
+ position: relative;
+ top: -220px;
  left: 20px;
  margin-right: 400px;
 }
