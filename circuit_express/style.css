@@ -8,6 +8,9 @@ body {
   grid-gap: 0.3vw;
   margin: 0.3vw;
 }
+#water {
+  font-size: small;
+}
 header body {
   font-family: 'Luckiest Guy', cursive;
 }
